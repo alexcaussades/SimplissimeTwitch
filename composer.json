@@ -1,0 +1,35 @@
+{
+    "name": "SimplissimeTwitch/api-Twitch",
+    "description": "Api Twitch PHP Client",
+    "keywords": [
+        "framework",
+        "http",
+        "rest",
+        "web service",
+        "curl",
+        "client",
+        "HTTP client",
+        "twitch",
+        "api_twitch",
+        "Rapide",
+        "api",
+        "streamer",
+        "stream"
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "php": ">=5.5"
+    },
+    "license": "gnu general public license version 3",
+    "authors": [
+        {
+            "name": "alexcausssades",
+            "email": "alexcaussades@gmail.com",
+            "role" : "Developer"
+        }
+    ],
+    "support":{
+        "email": "alexcaussades@gmail.com"
+    },
+    "minimum-stability": "beta"
+}
