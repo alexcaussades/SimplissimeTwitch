@@ -20,7 +20,7 @@
         "guzzlehttp/guzzle": "^6.3",
         "php": ">=5.5"
     },
-    "license": "gnu general public license version 3",
+    "license": "gnu",
     "authors": [
         {
             "name": "alexcausssades",
