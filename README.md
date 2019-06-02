@@ -84,4 +84,6 @@ $ui->followListe()
 
 ## Help and docs
 
-* [Help](https://join.slack.com/t/alexcaussades/shared_invite/enQtNTMyNDI4NTU1ODU5LWFkYmM3NWY1N2I0OGRlOWIzOGUwNDRmZjZhY2U2OWQ0OWIzYzgwZWNkMWJkODhlNWQ4YTBkYzc0ZGE4YTQ3OTU)
+* [Help Slack](https://join.slack.com/t/alexcaussades/shared_invite/enQtNTMyNDI4NTU1ODU5LWFkYmM3NWY1N2I0OGRlOWIzOGUwNDRmZjZhY2U2OWQ0OWIzYzgwZWNkMWJkODhlNWQ4YTBkYzc0ZGE4YTQ3OTU)
+
+* [Help Discord](https://discord.gg/36ae6Hr)
