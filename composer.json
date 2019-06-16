@@ -16,6 +16,11 @@
         "streamer",
         "stream"
     ],
+    "autoload": {
+        "psr-4": {
+            "api-twitch\\": "src/"
+        }
+    },
     "require": {
         "guzzlehttp/guzzle": "^6.3",
         "php": ">=5.5"
